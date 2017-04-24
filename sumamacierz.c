@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define KOLUMNY 3
 #define WIERSZE 2
+#define NOWAZMIANA 2
 
 int main()
 {
