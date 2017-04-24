@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#define NOWAZMIANA 2
 
 int* add(int* Tab, int n, int new_elem)
 
