@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#define NOWAZMIANA 2
 
 struct complex
 {
