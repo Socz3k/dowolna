@@ -1,5 +1,6 @@
 #include "array.h"
 #include <stdio.h>
+#define NOWAZMIANA 2
 
 char **createMatrix(int n, int m)
 {
