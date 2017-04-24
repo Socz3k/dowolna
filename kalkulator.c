@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define NOWAZMIANA 2
 
 int main ()
 {
