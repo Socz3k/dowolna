@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define NAJNOWSZAZMIANA 1
 
 
 int* add(int* Tab, int n, int new_elem)

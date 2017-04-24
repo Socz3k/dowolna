@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define KOLUMNY 3
 #define WIERSZE 2
+#define NAJNOWSZAZMIANA 1
 
 int main()
 {

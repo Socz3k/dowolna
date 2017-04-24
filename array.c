@@ -1,5 +1,6 @@
 #include "array.h"
 #include <stdio.h>
+#define NAJNOWSZAZMIANA 1
 
 char **createMatrix(int n, int m)
 {

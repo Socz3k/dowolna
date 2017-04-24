@@ -3,6 +3,7 @@
 #include <stdio.h>
 #define ALIVE 1
 #define DEAD 0
+#define NAJNOWSZAZMIANA 1
 
 int sprawdzaniezycia(char** ptab,int n, int m)
 {

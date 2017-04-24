@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#define NAJNOWSZAZMIANA 1
 
 struct complex
 {

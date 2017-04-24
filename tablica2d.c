@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define NAJNOWSZAZMIANA 1
 
 void deleteMatrix(int*** ptab, int n)
 {

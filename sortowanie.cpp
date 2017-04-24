@@ -1,3 +1,5 @@
+#define NAJNOWSZAZMIANA 1
+
  int[] tab = new int[zakres];
             for (int i = 0; i < zakres; i++)
             {
