@@ -1,5 +1,9 @@
 #include <stdio.h>
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 int main ()
 {

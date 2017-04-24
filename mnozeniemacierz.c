@@ -3,7 +3,11 @@
 #define COL1 3
 #define ROW2 3
 #define COL2 2
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 int main()
 {

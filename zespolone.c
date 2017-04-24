@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 struct complex
 {

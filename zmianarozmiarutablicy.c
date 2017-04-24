@@ -1,6 +1,10 @@
 #include <stdio.h>
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
 
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 int* add(int* Tab, int n, int new_elem)
 

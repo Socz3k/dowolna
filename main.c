@@ -2,7 +2,11 @@
 #include "algorytm.h"
 #include <stdio.h>
 #include <unistd.h>
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 #define ROW 22
 #define COL 80

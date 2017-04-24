@@ -1,5 +1,9 @@
 #include <stdio.h>
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 void deleteMatrix(int*** ptab, int n)
 {

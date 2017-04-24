@@ -1,6 +1,10 @@
 #include "array.h"
 #include <stdio.h>
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 char **createMatrix(int n, int m)
 {

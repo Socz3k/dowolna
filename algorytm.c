@@ -3,7 +3,11 @@
 #include <stdio.h>
 #define ALIVE 1
 #define DEAD 0
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
+=======
+#define NOWAZMIANA 2
+>>>>>>> remotes/origin/drugi
 
 int sprawdzaniezycia(char** ptab,int n, int m)
 {

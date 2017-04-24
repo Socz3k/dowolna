@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 #define NAJNOWSZAZMIANA 1
 
  int[] tab = new int[zakres];
+=======
+#define NOWAZMIANA 2
+
+int[] tab = new int[zakres];
+>>>>>>> remotes/origin/drugi
             for (int i = 0; i < zakres; i++)
             {
                 liczba = Generator.Next(101);
