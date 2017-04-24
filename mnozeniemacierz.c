@@ -3,6 +3,7 @@
 #define COL1 3
 #define ROW2 3
 #define COL2 2
+#define NOWAZMIANA 2
 
 int main()
 {
