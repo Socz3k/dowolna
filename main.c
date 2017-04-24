@@ -2,6 +2,7 @@
 #include "algorytm.h"
 #include <stdio.h>
 #include <unistd.h>
+#define NOWAZMIANA 2
 
 #define ROW 22
 #define COL 80
